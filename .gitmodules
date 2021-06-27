@@ -1,0 +1,3 @@
+[submodule "repository-sub"]
+	path = repository-sub
+	url = https://github.com/bsc2fast/repository-sub.git
